@@ -26,7 +26,7 @@ number ->used to take number type inputs.(used min and max property required for
 date -> used to take input as date.
 radio ->used to take optional inputs.
 email ->used to take email of user.
-
+password -> used to take password from the user.
 textarea tag -> used to take large inputs from user.
 button -> used as a button to perform task on form.
 type(sumbit) -> used to submit the form.
